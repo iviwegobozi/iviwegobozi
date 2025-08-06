@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Iviwe 👋
 
-<!--
-**iviwegobozi/iviwegobozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Aspiring Front-End Developer | React Native & Web Dev  
+💡 Passionate about building apps that are user-friendly and data-smart  
+📚 Currently learning Data Science & AI tools  
+💼 Looking for opportunities to grow in front-end & mobile development
 
-Here are some ideas to get you started:
+## 🌟 My Portfolio Projects
+- 📘 Journal App (React Native + Expo) 
+- 📊 Data Dashboard (R Programming) Coming Soon
+- 🎵 Music Artist Website (HTML/CSS + JS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+R · React Native · JavaScript · HTML · CSS · Node.js · Git · GitHub · Figma
+
+## 📫 Let's Connect
+📧 iviwegobozi@outlook.com
