@@ -1,17 +1,28 @@
-# Hi there, I'm Iviwe 👋
+# Hi, I’m Iviwe 👋
 
-🎓 Aspiring Front-End Developer | React Native & Web Dev  
-💡 Passionate about building apps that are user-friendly and data-smart  
-📚 Currently learning Data Science & AI tools  
-💼 Looking for opportunities to grow in front-end & mobile development
+I’m a **Bachelor of Computer and Information Science in Application Development student** with a growing interest in building software for healthcare.
 
-## 🌟 My Portfolio Projects
-- 📘 Journal App (React Native + Expo) 
-- 📊 Data Dashboard (R Programming) Coming Soon
-- 🎵 Music Artist Website (HTML/CSS + JS)
+I’m currently strengthening my skills in **Java, object-oriented programming, web development, databases, and problem-solving**. My long-term goal is to help develop systems that support doctors, patients, and remote health monitoring.
 
-## 🔧 Tools & Technologies
-R · React Native · JavaScript · HTML · CSS · Node.js · Git · GitHub · Figma
+## Currently Working On
 
-## 📫 Let's Connect
-📧 iviwegobozi@outlook.com
+* ☕ A **21-Day Java Learning Challenge**
+* 🧠 Strengthening my Java and OOP fundamentals
+* 🗄️ Practising database design and SQL
+* 📊 Exploring chronic kidney disease data using R
+* 🌐 Building projects with HTML, CSS, and JavaScript
+
+## Skills and Technologies
+
+`Java` · `SQL` · `HTML` · `CSS` · `JavaScript` · `R` · `Git` · `GitHub`
+
+## Current Focus
+
+* Writing clearer and more structured Java programs
+* Improving my debugging and problem-solving skills
+* Learning how databases support real-world applications
+* Building a foundation for a future career in healthcare technology
+
+## Let’s Connect
+
+📧 [iviwegobozi@outlook.com](mailto:iviwegobozi@outlook.com)
